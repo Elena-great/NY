@@ -2,7 +2,7 @@
 const back = document.querySelector('#back');
 const next = document.querySelector('#next');
 
-//создаем константу, для доступа к фоткам
+//создаем массив, для доступа к фоткам
 const photos = ["assets/1.jpeg", "assets/2.jpeg", "assets/3.jpeg", "assets/4.jpeg", "assets/5.jpeg"];
 
 let i = 0;

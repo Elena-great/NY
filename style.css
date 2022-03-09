@@ -18,3 +18,15 @@ body  {
   font-family: 'Dancing Script', cursive;
   font-size: 30px;
 }
+
+@media all and (max-width: 500px) {
+
+  #pictures {
+    height: 50vh;
+  }
+
+  .btn {
+    padding: 0px;
+    font-size: 20px;
+  }
+}
